@@ -1,7 +1,7 @@
 ---
 author: Paragraph Team
 category: announcements
-date: 2026-11-20T20:23:49.776Z
+date: 2026-11-20T21:22:58.129Z
 layout: blog-post
 title: Every block Paragraph's editor makes
 ---
